@@ -1,0 +1,3 @@
+Crear el puerto serial a 9600.
+crear las libreria buffer_tx y buffer_rx.
+500.
